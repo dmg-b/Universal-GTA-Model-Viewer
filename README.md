@@ -8,9 +8,8 @@
 
 ## О программе
 
-Universal GTA Model Viewer — программа для просмотра моделей из GTA III, GTA Vice City и GTA San Andreas, а также пользовательских моделей в формате DFF + TXD.
+Universal GTA Model Viewer — программа для просмотра моделей из GTA III, GTA Vice City и GTA San Andreas, а также пользовательских моделей в формате DFF + TXD.  
 
-## Скриншоты
 <div align="center">
 <img width="64" height="74" alt="UniversalGTAModelViewer_logo" src="https://github.com/user-attachments/assets/da753030-750e-4655-90d5-68a253187c1a" />
 </div>
