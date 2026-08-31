@@ -96,7 +96,7 @@ Universal GTA Model Viewer — программа для просмотра мо
 ## Особая благодарность
 
 - **swerg** — за ценную информацию о специфике работы игровых файлов
-- **[Accurate RolePlay Team 🌴](vk.ru/vicecityrp)🌴**— за поддержку и тестирование программы
+- **[Accurate RolePlay Team 🌴](vk.ru/vicecityrp)**— за поддержку и тестирование программы
 - **[Сообществу игроков Vice Multi-Player (VMP)](vk.ru/vicemultiplayer)** — за поддержку и тестирование программы
 
 ## Разработка
