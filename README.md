@@ -1,5 +1,5 @@
 # Universal GTA Model Viewer
-**Beta 0.3**
+**beta v0.3**
 
 [➡️ Скачать последнюю версию](https://github.com/dmg-b/Universal-GTA-Model-Viewer/releases/tag/UniversalGTAModelViewer) ·
 [⚠️ Сообщить об ошибке](https://github.com/dmg-b/Universal-GTA-Model-Viewer/issues) ·
