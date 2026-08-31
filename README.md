@@ -12,7 +12,7 @@ Universal GTA Model Viewer — программа для просмотра мо
 
 ## Скриншоты
 <div align="center">
-<img width="64" height="74" alt="UniversalGTAModelViewer_logo" src="https://github.com/user-attachments/assets/da753030-750e-4655-90d5-68a253187c1a" style="pointer-events: none;" />
+<img width="64" height="74" alt="UniversalGTAModelViewer_logo" src="https://github.com/user-attachments/assets/da753030-750e-4655-90d5-68a253187c1a" />
 </div>
 <div align="center">
   <img width="90%" alt="UniversalGTAModelViewer" src="https://github.com/user-attachments/assets/5053ff15-a716-4c2b-8944-fbf63200d4ad" />
