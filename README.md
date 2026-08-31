@@ -19,8 +19,7 @@ Universal GTA Model Viewer — программа для просмотра мо
 
 ## Возможности
 
-- Просмотр оригинальных моделей автомобилей, скинов и оружия
-- Поддержка GTA III, GTA Vice City и GTA San Andreas
+- Просмотр оригинальных моделей автомобилей, скинов и оружия из GTA III, GTA Vice City и GTA San Andreas
 - Поддержка пользовательских DFF + TXD моделей в виде архивов (в т.ч. XML с кастомным handling и wheelscale)
 - Ручная настройка цвета кузова моделей автомобилей
 - Приближение, отдаление и перемещение камеры через пробел/СКМ
@@ -103,3 +102,20 @@ Universal GTA Model Viewer — программа для просмотра мо
 > **dmg_b | Арт-пространство [canseydyne](vk.ru/canseydyne)**  
 > UX/UI/Web-дизайн, арты по GTA и не только  
 > *© Aleksey Nikolaev, 2026*  
+
+## Скриншоты
+<div align="center">
+<img width="90%" alt="UltimateGTAModelViewer (3)" src="https://github.com/user-attachments/assets/5f21ba92-660e-4f18-a9d6-b4a804a01139" />
+</div>
+<div align="center">
+<img width="90%" alt="UltimateGTAModelViewer (7)" src="https://github.com/user-attachments/assets/7280d15c-c1d7-4ea8-ab63-a5fa60772112" />
+</div>
+<div align="center">
+<img width="90%" alt="UltimateGTAModelViewer (6)" src="https://github.com/user-attachments/assets/7c2b88c3-d4b2-4ecc-beee-0b790681f8a4" />
+</div>
+<div align="center">
+<img width="90%" alt="UltimateGTAModelViewer (4)" src="https://github.com/user-attachments/assets/d655c281-d579-4d5a-a5db-9d4d0919f268" />
+</div>
+<div align="center">
+<img width="90%" alt="UltimateGTAModelViewer (5)" src="https://github.com/user-attachments/assets/5cf88207-3520-46f4-aa0b-846913bebf57" />
+</div>
